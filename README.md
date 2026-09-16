@@ -1,1 +1,3 @@
-# odin-recipes
+# Odin Recipes
+This is the culmination project for the HTML section of the Foundations lesson of The Odin Project.
+This project contains an index.html file that links to four recipe pages, each showing use of headings, paragraphs, images, and both ordered and unordered lists in HTML. The recipes themselves are simply copied from allrecipes.com. Eventually this project will be revisited for CSS styling.
